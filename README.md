@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JS Frameworks
 - 🤔 I’m looking for help with Web Security
 - 💬 Ask me about Python,Js or  any Tech related stuff
-- ⚡ Fun fact: I spend 16 hours with my Laptop
+- ⚡ Fun fact: I spend 16 hours a day with my Laptop
 
 ### Connect with me:
 
