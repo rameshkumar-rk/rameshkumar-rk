@@ -2,7 +2,7 @@
 
 ### I'm a Developer and a CyberSecurity Enthusiast
 
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning JS Frameworks
 - 🤔 I’m looking for help with Web Security
 - 💬 Ask me about Python,Js or  any Tech related stuff
